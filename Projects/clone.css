@@ -1,0 +1,46 @@
+.hello{
+    text-decoration: none;
+}
+h1{
+    color: blueviolet;
+}
+#skills{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#lorem{
+    text-decoration: underline;
+    color:burlywood ;
+    font-weight:400;
+    font-family: cursive;
+    text-align: left;
+}
+#p1{
+    font-size: 100px;
+    color:chocolate;
+    line-height: 30px;
+    text-align:center;
+}
+#p2{
+    font-size:50px;
+    line-height: 20px;
+    text-align:center;
+}
+#p3{
+    font-size:x-large;
+    line-height:10px;
+    text-align:center;
+}
+#diving{
+    text-align:left;
+    color:palevioletred;
+    text-decoration:underline;
+    height:500px;
+    width:1000px;
+  }
+  /* CHILD SELECTOR OF CSS {MEANS IT SELECT CHILD OF A PARENT TAG IE. PARENT>CHILD{BN}} */
+  header>p{
+    font-size:medium;
+    text-decoration: wavy;
+  }
